@@ -95,7 +95,6 @@ def Ventana_Secundaria():
 		cv2.waitKey(1)
 		pass
 
-
 	#We create variables and in these same we call and position photos or texts.
 	logov2= Label(frame2, image=logo_universidad)
 	logov2.place(x=20,y=10)
